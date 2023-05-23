@@ -39,7 +39,7 @@ This is Arduino sample code for the CFAF240320Dx-020Fx family of displays. These
 ```
 ## Display information
 Here are links to our active displays:\
-CFAF240320D0-020FN\
-CFAF240320D0-020FR
+[CFAF240320D0-020FN](https://www.crystalfontz.com/product/cfaf240320d0020fn-240x320-2-inch-transflective-tft)\
+[CFAF240320D0-020FR](https://www.crystalfontz.com/product/cfaf240320d0020fr-240x320-2-inch-sunlight-readable-tft-display)
 
 For more information about other TFT offerings, please see our full list [here](https://www.crystalfontz.com/c/tft-lcd-displays/25).
